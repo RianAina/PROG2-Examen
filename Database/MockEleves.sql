@@ -1,0 +1,76 @@
+insert into eleves (id, first_name, last_name, serie) values (1, 'Domini', 'Pinkett', 'A1');
+insert into eleves (id, first_name, last_name, serie) values (2, 'Kriste', 'Buxam', 'A1');
+insert into eleves (id, first_name, last_name, serie) values (3, 'Richmound', 'Norbury', 'A1');
+insert into eleves (id, first_name, last_name, serie) values (4, 'Dorey', 'Curmi', 'A1');
+insert into eleves (id, first_name, last_name, serie) values (5, 'Avram', 'Greydon', 'A1');
+insert into eleves (id, first_name, last_name, serie) values (6, 'Grannie', 'Pandya', 'A1');
+insert into eleves (id, first_name, last_name, serie) values (7, 'Corene', 'Ginity', 'A1');
+insert into eleves (id, first_name, last_name, serie) values (8, 'Owen', 'Minette', 'A1');
+insert into eleves (id, first_name, last_name, serie) values (9, 'Floris', 'Gresham', 'A1');
+insert into eleves (id, first_name, last_name, serie) values (10, 'Milicent', 'Ruprechter', 'A1');
+
+insert into eleves (id, first_name, last_name, serie) values (11, 'Kelby', 'Tunnah', 'A2');
+insert into eleves (id, first_name, last_name, serie) values (12, 'Beaufort', 'Franzolini', 'A2');
+insert into eleves (id, first_name, last_name, serie) values (13, 'Fancy', 'Josefowicz', 'A2');
+insert into eleves (id, first_name, last_name, serie) values (14, 'Nelson', 'Primak', 'A2');
+insert into eleves (id, first_name, last_name, serie) values (15, 'Ester', 'Beadell', 'A2');
+insert into eleves (id, first_name, last_name, serie) values (16, 'Tadd', 'Jenckes', 'A2');
+insert into eleves (id, first_name, last_name, serie) values (17, 'Darsey', 'Bodega', 'A2');
+insert into eleves (id, first_name, last_name, serie) values (18, 'Katine', 'Vardie', 'A2');
+insert into eleves (id, first_name, last_name, serie) values (19, 'Norine', 'Bouda', 'A2');
+insert into eleves (id, first_name, last_name, serie) values (20, 'Bernie', 'Truss', 'A2');
+
+insert into eleves (id, first_name, last_name, serie) values (21, 'Freida', 'Taynton', 'D');
+insert into eleves (id, first_name, last_name, serie) values (22, 'Regina', 'Abdy', 'D');
+insert into eleves (id, first_name, last_name, serie) values (23, 'Eran', 'Kohrding', 'D');
+insert into eleves (id, first_name, last_name, serie) values (24, 'Celle', 'Ambrosoni', 'D');
+insert into eleves (id, first_name, last_name, serie) values (25, 'Marne', 'Bentje', 'D');
+insert into eleves (id, first_name, last_name, serie) values (26, 'Verge', 'Milligan', 'D');
+insert into eleves (id, first_name, last_name, serie) values (27, 'Trish', 'Torra', 'D');
+insert into eleves (id, first_name, last_name, serie) values (28, 'Sayre', 'Perryman', 'D');
+insert into eleves (id, first_name, last_name, serie) values (29, 'Janith', 'Sturror', 'D');
+insert into eleves (id, first_name, last_name, serie) values (30, 'Jenny', 'Eagles', 'D');
+
+insert into eleves (id, first_name, last_name, serie) values (31, 'Arlen', 'Southerell', 'C');
+insert into eleves (id, first_name, last_name, serie) values (32, 'Royall', 'Laimable', 'C');
+insert into eleves (id, first_name, last_name, serie) values (33, 'Aidan', 'Tipling', 'C');
+insert into eleves (id, first_name, last_name, serie) values (34, 'Alisha', 'Zanetti', 'C');
+insert into eleves (id, first_name, last_name, serie) values (35, 'Arliene', 'Boykett', 'C');
+insert into eleves (id, first_name, last_name, serie) values (36, 'Fleming', 'Matschek', 'C');
+insert into eleves (id, first_name, last_name, serie) values (37, 'Horton', 'MacGeffen', 'C');
+insert into eleves (id, first_name, last_name, serie) values (38, 'Elnore', 'Pomfrett', 'C');
+insert into eleves (id, first_name, last_name, serie) values (39, 'Thaxter', 'Yeardley', 'C');
+insert into eleves (id, first_name, last_name, serie) values (40, 'Westbrooke', 'Newart', 'C');
+
+insert into eleves (id, first_name, last_name, serie) values (41, 'Silvio', 'Stoeck', 'L');
+insert into eleves (id, first_name, last_name, serie) values (42, 'Wilone', 'Elkins', 'L');
+insert into eleves (id, first_name, last_name, serie) values (43, 'Ardelia', 'Ellyatt', 'L');
+insert into eleves (id, first_name, last_name, serie) values (44, 'Kermit', 'Muttitt', 'L');
+insert into eleves (id, first_name, last_name, serie) values (45, 'Bev', 'Suarez', 'L');
+insert into eleves (id, first_name, last_name, serie) values (46, 'Amber', 'Salzburg', 'L');
+insert into eleves (id, first_name, last_name, serie) values (47, 'Addy', 'Walpole', 'L');
+insert into eleves (id, first_name, last_name, serie) values (48, 'Fernande', 'Schwandermann', 'L');
+insert into eleves (id, first_name, last_name, serie) values (49, 'Byron', 'Montgomery', 'L');
+insert into eleves (id, first_name, last_name, serie) values (50, 'Creighton', 'Fucher', 'L');
+
+insert into eleves (id, first_name, last_name, serie) values (51, 'Diane-marie', 'Lishman', 'S');
+insert into eleves (id, first_name, last_name, serie) values (52, 'Stacey', 'Attle', 'S');
+insert into eleves (id, first_name, last_name, serie) values (53, 'Orsa', 'Oxteby', 'S');
+insert into eleves (id, first_name, last_name, serie) values (54, 'Meridith', 'Kordas', 'S');
+insert into eleves (id, first_name, last_name, serie) values (55, 'Dory', 'Tranter', 'S');
+insert into eleves (id, first_name, last_name, serie) values (56, 'Carine', 'Bennion', 'S');
+insert into eleves (id, first_name, last_name, serie) values (57, 'Kathy', 'Potter', 'S');
+insert into eleves (id, first_name, last_name, serie) values (58, 'Pollyanna', 'MacRanald', 'S');
+insert into eleves (id, first_name, last_name, serie) values (59, 'Lee', 'Mennithorp', 'S');
+insert into eleves (id, first_name, last_name, serie) values (60, 'Eleni', 'Probat', 'S');
+
+insert into eleves (id, first_name, last_name, serie) values (61, 'Dwight', 'Battram', 'OSE');
+insert into eleves (id, first_name, last_name, serie) values (62, 'Mag', 'Gehring', 'OSE');
+insert into eleves (id, first_name, last_name, serie) values (63, 'Bobbette', 'De Coursey', 'OSE');
+insert into eleves (id, first_name, last_name, serie) values (64, 'Garey', 'Hunday', 'OSE');
+insert into eleves (id, first_name, last_name, serie) values (65, 'Myrah', 'Coxwell', 'OSE');
+insert into eleves (id, first_name, last_name, serie) values (66, 'Earvin', 'Fleckno', 'OSE');
+insert into eleves (id, first_name, last_name, serie) values (67, 'Noni', 'Embra', 'OSE');
+insert into eleves (id, first_name, last_name, serie) values (68, 'Becca', 'Rattry', 'OSE');
+insert into eleves (id, first_name, last_name, serie) values (69, 'Myca', 'Dabnot', 'OSE');
+insert into eleves (id, first_name, last_name, serie) values (70, 'Clemens', 'Freeman', 'OSE');
